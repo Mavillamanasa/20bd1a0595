@@ -1,0 +1,3 @@
+
+[A[A[C[C[C[C[C[C[C[C[C cat >P1.txt
+THIS IS FILE P1
